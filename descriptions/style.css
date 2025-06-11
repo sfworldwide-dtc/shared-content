@@ -1,0 +1,12 @@
+<style>
+    /* 商品圖使用 */
+    .ds-container { display: flex; flex-direction: column; /* 垂直排列 */ align-items: center; /* 水平置中 */ gap: 0px;/* 圖片間距 */ }
+    .ds-container img { max-width: 100%; height: auto;}
+
+    /* 食品業者登錄字號使用 */
+    .ds-table-container { width: 100%; max-width: 1000px; margin: auto;}
+    .ds-table-container table { width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;}
+    .ds-table-container th, .ds-table-container td { border: 1px solid #ccc; padding: 10px; text-align: center;}
+    .ds-table-container th { background-color: #f2f2f2; font-weight: bold; width: 30%;}
+    .ds-table-container td { background-color: #fafafa;}
+ </style>
