@@ -3,10 +3,8 @@
     .ds-container { max-width: 1000px; width:100%; margin: 0 auto 20px; align-items: center;}
     .ds-container img { width: 100%; height: auto; margin: 0 auto;}
 
-
     /* 影片使用 */
-    .ds-video { margin: 5px 0; }
-
+    .ds-video { max-width: 1000px; width: 100%; margin: 0 auto; align-items: center;}
 
     /* 食品業者登錄字號使用 */
     .ds-table-container { width: 100%; max-width: 1000px; margin: auto;}
