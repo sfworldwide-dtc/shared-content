@@ -1,11 +1,11 @@
 
     /* 商品圖使用 */
     .ds-container { max-width: 1000px; width:100%; margin: 0 auto 20px; align-items: center;}
-    .ds-container img { height: auto; margin: 0 auto;}
+    .ds-container img { width: 100%; height: auto; margin: 0 auto;}
 
 
     /* 影片使用 */
-    .ds-container iframe { margin: 5px;}
+    .ds-video { margin: 5px 0; }
 
 
     /* 食品業者登錄字號使用 */
